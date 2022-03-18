@@ -1,25 +1,17 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+import './App.css'
+import VideoComponent from './Component'
 
-function App() {
+
+export default function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className='snap-y snap-mandatory	overflow-scroll h-screen'>
+      <div className="container h-auto mx-auto px-40 flex flex-col justify-around">
+      <VideoComponent/>
+      <VideoComponent/>
+      <VideoComponent/>
+      <VideoComponent/>
+      </div>
     </div>
-  );
+  )
 }
-
-export default App;
