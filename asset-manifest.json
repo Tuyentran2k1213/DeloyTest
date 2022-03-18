@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DeloyTest/static/css/main.d8b23ff6.css",
+    "main.js": "/DeloyTest/static/js/main.e350111e.js",
+    "static/js/787.8e6c4de5.chunk.js": "/DeloyTest/static/js/787.8e6c4de5.chunk.js",
+    "index.html": "/DeloyTest/index.html",
+    "main.d8b23ff6.css.map": "/DeloyTest/static/css/main.d8b23ff6.css.map",
+    "main.e350111e.js.map": "/DeloyTest/static/js/main.e350111e.js.map",
+    "787.8e6c4de5.chunk.js.map": "/DeloyTest/static/js/787.8e6c4de5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8b23ff6.css",
+    "static/js/main.e350111e.js"
+  ]
+}
